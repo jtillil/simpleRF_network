@@ -6,7 +6,7 @@ Johannes Tillil
 ### Description
 Implements random forests (RF, Breiman 2001) with emphasis on simplicity. Uses reference classes and only plain R. Not optimized for computation speed. Allows rapid prototyping of RF-type algorithms.
 
-A network-based RF-type algorithm is implemented by Johannes Tilll.
+A network-based RF-type algorithm is implemented by Johannes Tillil.
 
 For a runtime-optimized random forest implementation, see [ranger](https://github.com/imbs-hl/ranger).
 
